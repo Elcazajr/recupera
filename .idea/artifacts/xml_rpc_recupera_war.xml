@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xml-rpc-recupera:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xml-rpc-recupera</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xml-rpc-recupera-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xml-rpc-recupera:war exploded" />
+    </root>
+  </artifact>
+</component>
